@@ -1,6 +1,8 @@
 ## Olá! Eu sou o Lucas 👋
 
-- 📚 Atualmente estou estudando JavaScript
+<h4>- 📚 Atualmente estou estudando JavaScript</h4>
+
+<br>
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucaslndev&show_icons=true&theme=radical)
 
