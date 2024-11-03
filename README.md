@@ -8,7 +8,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Lucaslndev&theme=radical" />
 </a>
 <a href="https://github.com/Lucaslndev/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucaslndev&layout=compact&theme=radical&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaslndev&card_width=150&theme=radical" />
 </a>
 
 <div style="display: inline_block"><br>
