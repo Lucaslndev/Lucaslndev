@@ -1,4 +1,4 @@
-## Olá! Eu sou o Lucas 👋
+## Olá! Eu sou o Lucas 
 
 <h4>- 📚 Atualmente estou estudando JavaScript</h4>
 
