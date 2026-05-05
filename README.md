@@ -1,15 +1,8 @@
 ## Olá! Eu sou o Lucas 
 
-<h4>- 📚 Atualmente estou estudando JavaScript</h4>
+<h4>- 📚 Atualmente estou trabalhando em um Sistema de Automação Inteligente (React)</h4>
 
 <br>
-
-<a href="https://github.com/Lucaslndev/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Lucaslndev&theme=radical" />
-</a>
-<a href="https://github.com/Lucaslndev/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaslndev&card_width=150&theme=radical" />
-</a>
 
 ## 🛠️ Skills & Ferramentas
 
