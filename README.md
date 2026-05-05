@@ -1,4 +1,4 @@
-## Olá! Eu sou o Lucas 
+## Olá! Eu sou o Lucas Lima - Full-Stack 
 
 <h4>- 📚 Atualmente estou trabalhando em um Sistema de Automação Inteligente (React)</h4>
 
