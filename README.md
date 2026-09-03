@@ -1,4 +1,4 @@
-# 🚀 Olá, eu sou o Lucas!
+# Olá, eu sou o Lucas!
 ### Desenvolvedor Full-Stack
 
 Desenvolvedor focado em criar soluções eficientes, escaláveis e modernas. Atualmente me dedicando ao desenvolvimento de sistemas inteligentes e automações.
@@ -6,8 +6,8 @@ Desenvolvedor focado em criar soluções eficientes, escaláveis e modernas. Atu
 ---
 
 ### 💻 No que estou trabalhando
-- 🔭 **Projeto Atual:** Sistema de Automação Inteligente para Atendimento (React / Node)
-- 🌱 **Aprimorando conhecimentos em:** Arquitetura de Software e Integrações B2B
+- **Projeto Atual:** Sistema de Automação Inteligente para Atendimento (React / Node)
+- **Aprimorando conhecimentos em:** Arquitetura de Software e Integrações B2B
 
 ---
 
