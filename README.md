@@ -33,3 +33,15 @@ Desenvolvedor focado em criar soluções eficientes, escaláveis e modernas. Atu
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN_AQUI)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU_INSTAGRAM_AQUI)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+
+---
+
+### 🐍 Snake Eating My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucaslndev/Lucaslndev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lucaslndev/Lucaslndev/output/github-contribution-grid-snake.svg">
+  <img alt="github snake eating contributions" src="https://raw.githubusercontent.com/Lucaslndev/Lucaslndev/output/github-contribution-grid-snake.svg">
+</picture>
+
+<sub><i>a cobra devora os commits do meu grafo de contribuições — atualiza sozinha a cada 12h</i></sub>
