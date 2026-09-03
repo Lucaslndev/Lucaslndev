@@ -1,19 +1,35 @@
-## Olá! Eu sou o Lucas Lima - Full-Stack 
+# 🚀 Olá, eu sou o Lucas Lima!
+### Desenvolvedor Full-Stack
 
-<h4>- 📚 Atualmente estou trabalhando em um Sistema de Automação Inteligente (React)</h4>
+Desenvolvedor focado em criar soluções eficientes, escaláveis e modernas. Atualmente me dedicando ao desenvolvimento de sistemas inteligentes e automações.
 
-<br>
+---
 
-## 🛠️ Skills & Ferramentas
+### 💻 No que estou trabalhando
+- 🔭 **Projeto Atual:** Sistema de Automação Inteligente para Atendimento (React / Node)
+- 🌱 **Aprimorando conhecimentos em:** Arquitetura de Software e Integrações B2B
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFCA28?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+---
 
-## Redes Socias
+### 🛠️ Skills & Ferramentas
 
-<div> 
-  <a href="https://www.instagram.com/lln_lucas_/" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,cs,cpp,mysql,vscode,visualstudio,git,github" />
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dark&hide=html,css"/>
+</p>
+
+---
+
+### 🌐 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN_AQUI)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU_INSTAGRAM_AQUI)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
