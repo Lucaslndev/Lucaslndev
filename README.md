@@ -1,4 +1,4 @@
-# 🚀 Olá, eu sou o Lucas Lima!
+# 🚀 Olá, eu sou o Lucas!
 ### Desenvolvedor Full-Stack
 
 Desenvolvedor focado em criar soluções eficientes, escaláveis e modernas. Atualmente me dedicando ao desenvolvimento de sistemas inteligentes e automações.
