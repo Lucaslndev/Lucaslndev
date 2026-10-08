@@ -5,9 +5,9 @@ Desenvolvedor focado em criar soluções eficientes, escaláveis e modernas. Atu
 
 ---
 
-### 💻 No que estou trabalhando
-- **Projeto Atual:** Sistema de Automação Inteligente para Atendimento (React / Node)
-- **Aprimorando conhecimentos em:** Arquitetura de Software e Integrações B2B
+### No que estou trabalhando
+- **Projeto Atual:** Desenvolvimento de um assistente virtual inteligente para automação de tarefas e interação com sistemas, utilizando Python, integração com APIs e recursos de inteligência artificial
+- **Aprimorando conhecimentos em:** Java e desenvolvimento de aplicações
 
 ---
 
