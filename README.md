@@ -14,7 +14,7 @@ Desenvolvedor focado em criar soluções eficientes, escaláveis e modernas. Atu
 ### 🛠️ Skills & Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,cs,cpp,mysql,vscode,visualstudio,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,cs,cpp,mysql,vscode,visualstudio,github" />
 </p>
 
 ---
